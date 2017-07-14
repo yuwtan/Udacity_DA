@@ -1,0 +1,4 @@
+The link to the map position I wrangled in my project is as below:
+https://mapzen.com/data/metro-extracts/#chicago-illinois
+
+I used the data of Chicago because I now live here. It is fun to see how the dataset is in the Open Street Map project, and get to know more about the city.

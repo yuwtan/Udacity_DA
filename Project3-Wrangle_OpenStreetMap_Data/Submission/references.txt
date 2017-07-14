@@ -1,0 +1,9 @@
+References I used are as below:
+
+https://classroom.udacity.com/nanodegrees/nd002/parts/0021345404/modules/316820862075463/lessons/3168208620239847/concepts/77135319070923
+
+https://docs.google.com/document/d/1F0Vs14oNEs2idFJR3C_OPxwS6L0HPliOii-QpbmrMo4/pub
+
+https://docs.mongodb.com/manual/core/aggregation-pipeline/
+
+https://docs.mongodb.com/getting-started/python/query/
